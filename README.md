@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+Title: Privacy Policy
 ---
 
 # Privacy Policy for Snowflake Query Bot
@@ -31,4 +31,4 @@ All interactions with Snowflake Query Bot occur through secure API connections.
 If you have concerns about your data, you may stop using the Bot at any time.  
 
 ## Contact
-For questions or concerns, please contact: [your-email@example.com].
+For questions or concerns, please contact: [email@example.com].
